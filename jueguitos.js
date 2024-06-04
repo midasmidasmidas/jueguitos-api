@@ -18,14 +18,14 @@ const jueguitos = [
         "nombre": "Dante's Inferno",
         "genero":"Acción, Hack & Slash",
         "precio": "$15.000",
-        "foto":"https://i.ibb.co/H2FgBs9/dantes-inferno.png",
+        "foto":"https://i.ibb.co/cFd9Gp3/dantes-inferno.png",
     },
     {
         "id":3,
         "nombre": "One Piece: World Seeker",
         "genero":"Pelea, Acción",
         "precio": "$40.000",
-        "foto":"https://i.ibb.co/JcvR8w8/one-piece.png",
+        "foto":"https://i.ibb.co/DKpPvMT/one-piece.png",
     },
     {
         "id":4,
@@ -47,6 +47,34 @@ const jueguitos = [
         "genero":"Disparos, Exploración, Mundo Abierto",
         "precio": "$30.000",
         "foto":"https://i.ibb.co/bF71QRj/GTA5.png",
+    },
+    {
+        "id":7,
+        "nombre": "Deep Rock Galactic",
+        "genero":"Aventura, Exploración, Disparos",
+        "precio": "$15.000",
+        "foto":"https://i.ibb.co/jbSckNh/drg.png",
+    },
+    {
+        "id":8,
+        "nombre": "POSTAL 2",
+        "genero":"Disparos, Exploración, Mundo Abierto",
+        "precio": "$5.000",
+        "foto":"https://i.ibb.co/2Wyzn5b/postal-2.png",
+    },
+    {
+        "id":9,
+        "nombre": "Portal 2",
+        "genero":"Disparos, Exploración, Mundo Abierto",
+        "precio": "$10.000",
+        "foto":"https://i.ibb.co/HGHbF0n/portal-2.png",
+    },
+    {
+        "id":10,
+        "nombre": "Lethal Company",
+        "genero":"Terror, Aventura",
+        "precio": "$10.000",
+        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
     },
 ];
 
