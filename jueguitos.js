@@ -1,16 +1,18 @@
-module.exports = [
+const jueguitos = [
     {
-        "id":"000",
+        "id":0,
         "nombre": "Fortnite: Salvar el Mundo",
         "genero":"Looter Shooter, Aventura, Defensa de Torres",
         "precio": "$12.000",
-        "foto":"https://static.wikia.nocookie.net/esmegaman/images/5/5f/MM3ProtoMan.jpg",
+        "foto":"https://fortnite.gg/img/items/12411/icon.png",
     },
     {
-        "id":"001",
+        "id":1,
         "nombre": "Fortnite: 2",
-        "genero":"La puta que lo parió",
+        "genero":"xd",
         "precio": "$100.000",
-        "foto":"https://static.wikia.nocookie.net/esmegaman/images/5/5f/MM3ProtoMan.jpg",
+        "foto":"https://fortnite.gg/img/items/12411/icon.png",
     },
 ];
+
+module.exports = { jueguitos };
