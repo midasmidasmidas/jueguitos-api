@@ -20,6 +20,34 @@ const jueguitos = [
         "precio": "$15.000",
         "foto":"https://i.ibb.co/H2FgBs9/dantes-inferno.png",
     },
+    {
+        "id":3,
+        "nombre": "One Piece: World Seeker",
+        "genero":"Pelea, Acción",
+        "precio": "$40.000",
+        "foto":"https://i.ibb.co/JcvR8w8/one-piece.png",
+    },
+    {
+        "id":4,
+        "nombre": "HELLDIVERS 2",
+        "genero":"Disparos, Acción",
+        "precio": "$20.000",
+        "foto":"https://i.ibb.co/6bws3SG/helldivers2.png",
+    },
+    {
+        "id":5,
+        "nombre": "Minecraft",
+        "genero":"Aventura, Exploración, Mundo Abierto",
+        "precio": "$25.000",
+        "foto":"https://i.ibb.co/0ZG2z6L/minecraft.png",
+    },
+    {
+        "id":6,
+        "nombre": "Grand Theft Auto 5",
+        "genero":"Disparos, Exploración, Mundo Abierto",
+        "precio": "$30.000",
+        "foto":"https://i.ibb.co/bF71QRj/GTA5.png",
+    },
 ];
 
 module.exports = { jueguitos };
