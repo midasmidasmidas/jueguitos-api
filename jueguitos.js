@@ -105,7 +105,7 @@ const jueguitos = [
         "desarrollador":"Landfall Games",
         "plataformas":"PC",
         "precio": 10000,
-        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
+        "foto":"https://i.ibb.co/yQccXbX/content-warning.png",
     },
     {
         "id":12,
@@ -114,7 +114,7 @@ const jueguitos = [
         "desarrollador":"Intelligent Systems",
         "plataformas":"Nintendo Switch",
         "precio": 25000,
-        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
+        "foto":"https://i.ibb.co/pQy4nwr/fire-emblem.png",
     },
     {
         "id":13,
@@ -123,7 +123,7 @@ const jueguitos = [
         "desarrollador":"Bethesda",
         "plataformas":"PC, PS4, PS5, Xbox One, Xbox Series X/S",
         "precio": 30000,
-        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
+        "foto":"https://i.ibb.co/Smmpp5r/fallout4.png",
     },
     {
         "id":14,
@@ -132,8 +132,35 @@ const jueguitos = [
         "desarrollador":"Gearbox Software",
         "plataformas":"PC, PS3, PS4, Xbox 360, Xbox One, PSVita",
         "precio": 15000,
-        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
-    }
+        "foto":"https://i.ibb.co/B348JjJ/borderlands2.png",
+    },
+    {
+        "id":15,
+        "nombre": "Peggle Deluxe",
+        "genero":"Casual, Lógica",
+        "desarrollador":"PopCap Games",
+        "plataformas":"PC, PS3, Xbox 360",
+        "precio": 5000,
+        "foto":"https://i.ibb.co/rvhXjK3/peggle.png",
+    },
+    {
+        "id":16,
+        "nombre": "Plants vs Zombies",
+        "genero":"Casual, Estrategia",
+        "desarrollador":"PopCap Games",
+        "plataformas":"PC, PS3, PS4, Xbox 360, Xbox One, PSVita",
+        "precio": 15000,
+        "foto":"https://i.ibb.co/3pdgfv3/pvz.png",
+    },
+    {
+        "id":17,
+        "nombre": "Geometry Dash",
+        "genero":"Ritmo, Música",
+        "desarrollador":"RobTop Games",
+        "plataformas":"PC",
+        "precio": 3000,
+        "foto":"https://i.ibb.co/R4yB79c/gd.png",
+    },
 ];
 
 module.exports = { jueguitos };
