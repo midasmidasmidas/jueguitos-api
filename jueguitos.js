@@ -5,7 +5,7 @@ const jueguitos = [
         "genero":"Looter Shooter, Aventura, Defensa de Torres",
         "desarrollador":"Epic Games",
         "plataformas":"PC, PS4, PS5, Xbox One, Xbox Series X/S",
-        "precio": "$12.000",
+        "precio": 12000,
         "foto":"https://i.ibb.co/KKjnD02/fortnite-stw.png",
     },
     {
@@ -14,7 +14,7 @@ const jueguitos = [
         "genero":"Aventura, Hack & Slash",
         "desarrollador":"C-Force",
         "plataformas":"PC, PS4, PS5, Xbox One, Xbox Series X/S, Nintendo Switch",
-        "precio": "$1.000.000",
+        "precio": 1000000,
         "foto":"https://i.ibb.co/vJr7ztb/pipi.png",
     },
     {
@@ -23,7 +23,7 @@ const jueguitos = [
         "genero":"Acción, Hack & Slash",
         "desarrollador":"Visceral Games, Electronic Arts",
         "plataformas":"PS3, PSP, Xbox 360",
-        "precio": "$15.000",
+        "precio": 15000,
         "foto":"https://i.ibb.co/cFd9Gp3/dantes-inferno.png",
     },
     {
@@ -32,7 +32,7 @@ const jueguitos = [
         "genero":"Pelea, Acción",
         "desarrollador":"Ganbarion",
         "plataformas":"PS4, Xbox One, PC",
-        "precio": "$40.000",
+        "precio": 40000,
         "foto":"https://i.ibb.co/DKpPvMT/one-piece.png",
     },
     {
@@ -41,7 +41,7 @@ const jueguitos = [
         "genero":"Disparos, Acción",
         "desarrollador":"Arrowhead Game Studios",
         "plataformas":"PS5, PC",
-        "precio": "$20.000",
+        "precio": 20000,
         "foto":"https://i.ibb.co/6bws3SG/helldivers2.png",
     },
     {
@@ -50,7 +50,7 @@ const jueguitos = [
         "genero":"Aventura, Exploración, Mundo Abierto",
         "desarrollador":"Mojang Studios",
         "plataformas":"PC",
-        "precio": "$25.000",
+        "precio": 25000,
         "foto":"https://i.ibb.co/0ZG2z6L/minecraft.png",
     },
     {
@@ -59,7 +59,7 @@ const jueguitos = [
         "genero":"Disparos, Exploración, Mundo Abierto",
         "desarrollador":"Rockstar Games, Rockstar North",
         "plataformas":"PC, PS3, Xbox 360, PS4, Xbox One, PS5, Xbox Series X/S",
-        "precio": "$30.000",
+        "precio": 30000,
         "foto":"https://i.ibb.co/bF71QRj/GTA5.png",
     },
     {
@@ -68,7 +68,7 @@ const jueguitos = [
         "genero":"Aventura, Exploración, Disparos",
         "desarrollador":"Ghost Ship Games",
         "plataformas":"PC, PS5, PS4, Xbox One, Xbox Series X/S",
-        "precio": "$15.000",
+        "precio": 15000,
         "foto":"https://i.ibb.co/jbSckNh/drg.png",
     },
     {
@@ -77,7 +77,7 @@ const jueguitos = [
         "genero":"Disparos, Exploración, Mundo Abierto",
         "desarrollador":"Running with Scissors",
         "plataformas":"PC",
-        "precio": "$5.000",
+        "precio": 5000,
         "foto":"https://i.ibb.co/2Wyzn5b/postal-2.png",
     },
     {
@@ -86,7 +86,7 @@ const jueguitos = [
         "genero":"Disparos, Exploración, Mundo Abierto",
         "desarrollador":"Valve",
         "plataformas":"PC, PS3, Xbox 360, Nintendo Switch",
-        "precio": "$10.000",
+        "precio": 10000,
         "foto":"https://i.ibb.co/HGHbF0n/portal-2.png",
     },
     {
@@ -95,7 +95,7 @@ const jueguitos = [
         "genero":"Terror, Aventura",
         "desarrollador":"Zeekerss",
         "plataformas":"PC",
-        "precio": "$10.000",
+        "precio": 10000,
         "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
     },
     {
@@ -104,7 +104,7 @@ const jueguitos = [
         "genero":"Terror, Aventura",
         "desarrollador":"Landfall Games",
         "plataformas":"PC",
-        "precio": "$10.000",
+        "precio": 10000,
         "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
     },
     {
@@ -113,7 +113,7 @@ const jueguitos = [
         "genero":"RPG Táctico",
         "desarrollador":"Intelligent Systems",
         "plataformas":"Nintendo Switch",
-        "precio": "$25.000",
+        "precio": 25000,
         "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
     },
     {
@@ -122,7 +122,7 @@ const jueguitos = [
         "genero":"RPG de Acción, Disparos",
         "desarrollador":"Bethesda",
         "plataformas":"PC, PS4, PS5, Xbox One, Xbox Series X/S",
-        "precio": "$30.000",
+        "precio": 30000,
         "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
     },
     {
@@ -131,7 +131,7 @@ const jueguitos = [
         "genero":"RPG de Acción, Disparos",
         "desarrollador":"Gearbox Software",
         "plataformas":"PC, PS3, PS4, Xbox 360, Xbox One, PSVita",
-        "precio": "$15.000",
+        "precio": 15000,
         "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
     }
 ];
