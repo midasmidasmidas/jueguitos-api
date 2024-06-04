@@ -8,9 +8,9 @@ const jueguitos = [
     },
     {
         "id":1,
-        "nombre": "Fortnite: 2",
-        "genero":"xd",
-        "precio": "$100.000",
+        "nombre": "La Leyenda de Pipi",
+        "genero":"Aventura, Hack & Slash",
+        "precio": "$1.000.000",
         "foto":"https://fortnite.gg/img/items/12411/icon.png",
     },
 ];
