@@ -98,6 +98,42 @@ const jueguitos = [
         "precio": "$10.000",
         "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
     },
+    {
+        "id":11,
+        "nombre": "Content Warning",
+        "genero":"Terror, Aventura",
+        "desarrollador":"Landfall Games",
+        "plataformas":"PC",
+        "precio": "$10.000",
+        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
+    },
+    {
+        "id":12,
+        "nombre": "Fire Emblem: Three Houses",
+        "genero":"RPG Táctico",
+        "desarrollador":"Intelligent Systems",
+        "plataformas":"Nintendo Switch",
+        "precio": "$25.000",
+        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
+    },
+    {
+        "id":13,
+        "nombre": "Fallout 4",
+        "genero":"RPG de Acción, Disparos",
+        "desarrollador":"Bethesda",
+        "plataformas":"PC, PS4, PS5, Xbox One, Xbox Series X/S",
+        "precio": "$30.000",
+        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
+    },
+    {
+        "id":14,
+        "nombre": "Borderlands 2",
+        "genero":"RPG de Acción, Disparos",
+        "desarrollador":"Gearbox Software",
+        "plataformas":"PC, PS3, PS4, Xbox 360, Xbox One, PSVita",
+        "precio": "$15.000",
+        "foto":"https://i.ibb.co/VCLwjXz/lethal-company.png",
+    }
 ];
 
 module.exports = { jueguitos };
