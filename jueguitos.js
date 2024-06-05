@@ -305,6 +305,42 @@ const jueguitos = [
         "precio": 12000,
         "foto":"https://i.ibb.co/zVcNy2L/ror2.png",
     },
+    {
+        "id":34,
+        "nombre": "PAYDAY 2",
+        "genero":"RPG, Juego de Disparos Táctico",
+        "desarrollador":"Starbreeze Studios, Overkill Software",
+        "plataformas":"PC, PS3, PS4, Xbox 360, Xbox One",
+        "precio": 10000,
+        "foto":"https://i.ibb.co/y61BnvZ/payday2.png",
+    },
+    {
+        "id":35,
+        "nombre": "Noita",
+        "genero":"Roguelike, Acción",
+        "desarrollador":"Nolla Games",
+        "plataformas":"PC",
+        "precio": 12000,
+        "foto":"https://i.ibb.co/n6B3GhC/noita.png",
+    },
+    {
+        "id":36,
+        "nombre": "Just Cause 3",
+        "genero":"Disparos, Acción, Aventura",
+        "desarrollador":"Avalanche Studios",
+        "plataformas":"PC, PS4, Xbox One",
+        "precio": 12000,
+        "foto":"https://i.ibb.co/5456jhX/jc3.png",
+    },
+    {
+        "id":37,
+        "nombre": "Roboquest",
+        "genero":"Roguelike, Disparos, Acción",
+        "desarrollador":"RyseUp Studios",
+        "plataformas":"PC, Xbox One, Xbox Series X/S",
+        "precio": 15000,
+        "foto":"https://i.ibb.co/X3wBGZr/roboquest.png",
+    },
 ];
 
 module.exports = { jueguitos };
